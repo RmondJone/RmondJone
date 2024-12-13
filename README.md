@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me: [https://rmondjone.github.io/](https://rmondjone.github.io/)
+
+[![RmondJone's GitHub stats](https://github-readme-stats.vercel.app/api?username=RmondJone&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Thanks for visiting :heart:
+
+
+<p align="left"> 
+<img src="https://profile-counter.glitch.me/RmondJone/count.svg"/>
+  
+counting of visitors to this page in this section started from December 13, 2024
+</p>
