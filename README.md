@@ -42,16 +42,16 @@ Here are some ideas to get you started:
 
 [CommitMessage](https://plugins.jetbrains.com/plugin/12256-commitmessage?noRedirect=true)
 
-<p><img src="https://plugins.jetbrains.com/files/12256/screenshot_809d6439-784a-47a1-aa74-896007629c46" width="800" alt=""></p>
-<p><img src="https://plugins.jetbrains.com/files/12256/screenshot_c7d9e2c1-cbc2-4447-9582-4ae8241e9440" width="800" alt=""></p>
+<p><img src="https://plugins.jetbrains.com/files/12256/screenshot_809d6439-784a-47a1-aa74-896007629c46" width="600" alt=""></p>
+<p><img src="https://plugins.jetbrains.com/files/12256/screenshot_c7d9e2c1-cbc2-4447-9582-4ae8241e9440" width="600" alt=""></p>
 
 [JsonToTypeScript](https://plugins.jetbrains.com/plugin/14393-jsontotypescript?noRedirect=true)
 
-<p><img src="https://plugins.jetbrains.com/files/14393/screenshot_7099d3d1-f4df-46f0-a2a5-2756cccb50c2" width="800" alt=""></p>
+<p><img src="https://plugins.jetbrains.com/files/14393/screenshot_7099d3d1-f4df-46f0-a2a5-2756cccb50c2" width="600" alt=""></p>
 
 [JsonToJava](https://plugins.jetbrains.com/plugin/21603-jsontojava?noRedirect=true)
 
-<p><img src="https://plugins.jetbrains.com/files/21603/screenshot_79fe6bfb-6a9b-4604-927b-96b0b6a03fff" width="800" alt=""></p>
+<p><img src="https://plugins.jetbrains.com/files/21603/screenshot_79fe6bfb-6a9b-4604-927b-96b0b6a03fff" width="600" alt=""></p>
 
 更多插件，请访问我的插件个人主页：[https://plugins.jetbrains.com/vendor/guohanlin](https://plugins.jetbrains.com/vendor/guohanlin)
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p align="left"> 
 <img src="https://profile-counter.glitch.me/RmondJone/count.svg"/>
 
-此部分此页面的访问者计数从2024年12月13日开始
+此页面的访问者计数从2024年12月13日开始
 </p>
 
 ### 联系方式
