@@ -55,13 +55,6 @@ Here are some ideas to get you started:
 
 更多插件，请访问我的插件个人主页：[https://plugins.jetbrains.com/vendor/guohanlin](https://plugins.jetbrains.com/vendor/guohanlin)
 
-### 感谢您的访问 :heart:
-
-<p align="left"> 
-<img src="https://profile-counter.glitch.me/RmondJone/count.svg"/>
-
-此页面的访问者计数从2024年12月13日开始
-</p>
 
 ### 联系方式
 
