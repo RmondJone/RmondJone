@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 人不可能打工一辈子，总要有自己追求的目标。愿我们早日实现自己目标，一起加油💪🏻💪🏻💪🏻💪🏻
 
-[![RmondJone's GitHub stats](https://github-readme-stats.vercel.app/api?username=RmondJone&theme=vue-dark)](https://rmondjone.github.io/)
-
 ### 最近活动
 
 [![](https://raw.githubusercontent.com/kings1990/kings1990/output/github-contribution-grid-snake.svg)](https://rmondjone.github.io/)
